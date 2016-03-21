@@ -1,5 +1,6 @@
 language: csharp
-mono:
-  - latest
-  - 3.12.0
-  - 3.10.0
+solution: solution-name.sln
+script:    # the following commands are just examples, use whatever your build process requires
+  - ./build.sh
+  - ./test.sh
+  - grep "Test Results" build.log
