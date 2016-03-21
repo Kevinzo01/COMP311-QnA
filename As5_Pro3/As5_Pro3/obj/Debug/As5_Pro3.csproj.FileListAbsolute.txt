@@ -1,0 +1,13 @@
+C:\Users\Kevin Zhou\Desktop\As5_Pro3\As5_Pro3\bin\Debug\As5_Pro3.exe.config
+C:\Users\Kevin Zhou\Desktop\As5_Pro3\As5_Pro3\bin\Debug\As5_Pro3.exe
+C:\Users\Kevin Zhou\Desktop\As5_Pro3\As5_Pro3\bin\Debug\As5_Pro3.pdb
+C:\Users\Kevin Zhou\Desktop\As5_Pro3\As5_Pro3\obj\Debug\MainWindow.baml
+C:\Users\Kevin Zhou\Desktop\As5_Pro3\As5_Pro3\obj\Debug\MainWindow.g.cs
+C:\Users\Kevin Zhou\Desktop\As5_Pro3\As5_Pro3\obj\Debug\App.g.cs
+C:\Users\Kevin Zhou\Desktop\As5_Pro3\As5_Pro3\obj\Debug\As5_Pro3_MarkupCompile.cache
+C:\Users\Kevin Zhou\Desktop\As5_Pro3\As5_Pro3\obj\Debug\As5_Pro3.g.resources
+C:\Users\Kevin Zhou\Desktop\As5_Pro3\As5_Pro3\obj\Debug\As5_Pro3.Properties.Resources.resources
+C:\Users\Kevin Zhou\Desktop\As5_Pro3\As5_Pro3\obj\Debug\As5_Pro3.csproj.GenerateResource.Cache
+C:\Users\Kevin Zhou\Desktop\As5_Pro3\As5_Pro3\obj\Debug\As5_Pro3.exe
+C:\Users\Kevin Zhou\Desktop\As5_Pro3\As5_Pro3\obj\Debug\As5_Pro3.pdb
+C:\Users\Kevin Zhou\Desktop\As5_Pro3\As5_Pro3\obj\Debug\As5_Pro3.csprojResolveAssemblyReference.cache
