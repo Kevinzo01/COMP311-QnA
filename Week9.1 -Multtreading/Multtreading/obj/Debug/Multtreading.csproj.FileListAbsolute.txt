@@ -1,6 +1,0 @@
-C:\Users\Kevin Zhou\Desktop\Multtreading\Multtreading\bin\Debug\Multtreading.exe.config
-C:\Users\Kevin Zhou\Desktop\Multtreading\Multtreading\obj\Debug\Multtreading.csprojResolveAssemblyReference.cache
-C:\Users\Kevin Zhou\Desktop\Multtreading\Multtreading\bin\Debug\Multtreading.exe
-C:\Users\Kevin Zhou\Desktop\Multtreading\Multtreading\bin\Debug\Multtreading.pdb
-C:\Users\Kevin Zhou\Desktop\Multtreading\Multtreading\obj\Debug\Multtreading.exe
-C:\Users\Kevin Zhou\Desktop\Multtreading\Multtreading\obj\Debug\Multtreading.pdb

@@ -1,2 +1,0 @@
-C:\Users\Kevin Zhou\Desktop\WPF\WPF\bin\Debug\WPF.exe.config
-C:\Users\Kevin Zhou\Desktop\WPF1\WPF\bin\Debug\WPF.exe.config
